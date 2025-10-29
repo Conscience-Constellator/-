@@ -1,0 +1,27 @@
+Intentions of, what A function does,
+can overlap in A permutation space.
+
+There are probably other ways to lay out functions than result permutation.
+
+Result table where all results are same value is called "literal",
+as it corresponds to A value literal.
+
+Literal:
+	Name: "→"+value.
+	All literals are magnitude symmetrical.
+	There's A literal for every result state.
+
+In I>0-> interface, enough parameters to,
+identify result table,
+& supply parameters,
+can constitute A function in A !<→ interface.
+
+Input ID:
+	A category in which A particular input is invoked in definition.
+
+Sticking 1→1 on transput:
+	Doesn't change interface.
+
+Where, input/output types are =, it's as if function is changing state of input.
+This can be A basis for naming function, based on what it appears to do to the value.
+A chart can be made, of how A table mutates states into each other.

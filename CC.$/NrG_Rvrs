@@ -1,0 +1,6 @@
+A sort of reversibility that doesn't specifically ID input state.
+
+In case of in-variant requirement for them,
+often it's due to them supplying enough energy for output,
+If those inputs are invariably some energy,
+that can lead to necessity for more outputs( to fit it).

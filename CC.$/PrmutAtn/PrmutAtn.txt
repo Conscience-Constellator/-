@@ -1,0 +1,12 @@
+Inversion pairs:
+	Result tables that are each other's ~.
+	They can be switched between by wrapping them in A "!".
+
+In this format:
+	Literals in order along diagonal,
+	w/ extremes;
+		top-left(minimum),
+		bottom-right(maximum).
+
+	All inversion pairs' lines, cross center, w/ = radius.
+	Specific states are, on sides, between corners.

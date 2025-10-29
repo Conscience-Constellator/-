@@ -1,0 +1,25 @@
+Where energy can't be summoned at will:
+Where there are permutations w/ energy in<out,
+non-info input is required, to provide energy out,
+perhaps bound to some energy.
+That's called non-info supply.
+
+Where energy can't be wasted:
+Where there are permutations w/ energy in>out,
+non-info output is required, to put energy.
+That's called non-info exhaust.
+
+This divides transput 2→4.
+
+Where both apply, non-info, supply, can necessitate output.
+
+There's A 2 square of whether A function is reversible in 2 ways;
+info, & energy.
+
+The quality of all permutations of same magnitude returning same result,
+is called "magnitude symmetry".
+
+All literals are both-irreversible.
+
+By convention, info transputs are put 1st, in there respective groups.
+That's called "the info-1st principle".

@@ -1,0 +1,12 @@
+Literal:
+	→X
+Order:
+	"!" means tolerates =.
+	Ascending
+	Descending
+	!Ascending
+	!Descending
+	Consistent
+	Inconsistent
+	!Consistent
+	!Inconsistent

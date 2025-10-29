@@ -1,0 +1,22 @@
+The lexeme for :
+→
+->
+=>
+$
+Both ways:
+↔
+<->
+<=>
+$$
+Counter-clockwise:
+↺
+>O
+Clockwise:
+↻
+<O
+
+Maybe useful:
+⇌
+
+Copy:
+→←↔

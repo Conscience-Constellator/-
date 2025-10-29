@@ -1,0 +1,63 @@
+DOF:
+	Whether puts are set.
+	Whether puts are same state-space.
+		What space.
+
+There's the concept of functions that have, input, & output.
+There's the concept of functions that always return same output for A given input.
+There's the question of whether A function has A set number of inputs.
+If 1 tosses A ball in the air w/ the intent to catch it, 1 must put into the toss force that'd cause it to land in the right location.
+Therefore 1 way to control the mechanism by which A result is gotten by the outside,
+is to give it necessary parameters for the function to express it itself.
+Example: A return address.
+
+There are cases where part of something has no use, therefore can be removed for efficiency.
+In service of the goal, usefulness emanates backward from goal.
+If something doesn't effect goal it's useless.
+In the context of deterministic functions.
+Defining trivial as,
+1: Parameters that don't effect output.
+2: Results that're always same, thus all parameters are unused.
+3: Output equals input(non-modification, as well use input directly).
+	Therefore in 1->1 functions >0 in states mustn't result in self.
+
+Where all puts are of same state-space,
+	there's A 2D grid of combinations of, parameter, & state, number, &
+	each function instance has A location on it.
+All functions that also have set parameter number as well.
+
+0 input:
+	A function w/ 0 inputs has 1 permutation.
+	Thus 1 that's restricted to considering, itself, & input, has 1 possible output, which must be determined by th function itself,
+	thus for purposes of acquiring that state, is equivalent to that state, thus trivial.
+1 state:
+	Which state something is in is trivial.
+	Therefore output is invariably that state.
+	Therefore where production of states is trivial, >1 state is required for usefulness.
+2 state:
+	For each state there's 1 other.
+	1->1:
+		Therefore assuming 1 state has non-trivial mapping it must be to the other.
+		If the other maps to itself, then both do, trivialising input.
+		Therefore the only non-trivial function outputs the state other than input.
+			Example: The not function.
+		Therefore inputs mapping to themselves can only exist in A non-trivial 1->1 function in A state-space>2.
+3 state:
+	1->1:
+		If 1 state-in corresponds to another state out,
+		the others can correspond to themselves, & the function be non-trivial.
+Signed number state:
+	W/ sign inversion, w/ input 0 result is trivial.
+	There are 2 directions, & traversal between them is binary.
+
+There's the concept of functions that
+store state persistent beyond instantiations.
+Example: A 1->1 binary function that has A lateral input that changes whether it returns, it's input, or the other.
+At any given time it's, trivial, or not.
+In A state of agnosticism toward it's mode, it's non-trivial, cuz it can be set to behave as A non-trivial function.
+A path for water w/ A sluice gate is similar; it has 2 modes,
+	1 where output is independent of input(off),
+	other it's equal.
+	It provides no service not provided by, an open path, or literal off.
+Both modes being individually trivial doesn't mean the path as A whole is;
+it's value comes from the ability to control which.

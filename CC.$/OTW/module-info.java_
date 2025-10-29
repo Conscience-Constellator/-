@@ -1,0 +1,13 @@
+/**Pertains to IO interfaces of functions.
+ * Division between in/ouput is represented by "$".
+ * Both ways is represented by "$$".
+ * Sub modules are often divided into pcs based on significance,
+ * so an importer needn't be burdened by weighty obscure code,
+ * just to use A ubiquitous 1.*/
+
+module CC.$
+{
+	requires CC.COd;
+
+	exports CC.$;
+}

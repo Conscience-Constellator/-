@@ -1,0 +1,11 @@
+Ignoring output effect, N$1->N$.
+Ignoring input effect, N$?->N+?$?.
+Binding input effect, N$?->N-?$?.
+1$1->1$
+Ignore output.
+2$1->2$
+Ignore output.
+2$1->1$1
+
+>0$1 can continue fibonacci-like, if given initial parameters.
+If reversible can be propagated backward.
